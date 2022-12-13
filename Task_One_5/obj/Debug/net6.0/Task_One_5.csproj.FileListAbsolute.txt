@@ -1,0 +1,68 @@
+C:\Users\mohamed\source\repos\Task_One_5\Task_One_5\bin\Debug\net6.0\Task_One_5.exe
+C:\Users\mohamed\source\repos\Task_One_5\Task_One_5\bin\Debug\net6.0\Task_One_5.deps.json
+C:\Users\mohamed\source\repos\Task_One_5\Task_One_5\bin\Debug\net6.0\Task_One_5.runtimeconfig.json
+C:\Users\mohamed\source\repos\Task_One_5\Task_One_5\bin\Debug\net6.0\Task_One_5.dll
+C:\Users\mohamed\source\repos\Task_One_5\Task_One_5\bin\Debug\net6.0\ref\Task_One_5.dll
+C:\Users\mohamed\source\repos\Task_One_5\Task_One_5\bin\Debug\net6.0\Task_One_5.pdb
+C:\Users\mohamed\source\repos\Task_One_5\Task_One_5\obj\Debug\net6.0\Task_One_5.csproj.AssemblyReference.cache
+C:\Users\mohamed\source\repos\Task_One_5\Task_One_5\obj\Debug\net6.0\Task_One_5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mohamed\source\repos\Task_One_5\Task_One_5\obj\Debug\net6.0\Task_One_5.AssemblyInfoInputs.cache
+C:\Users\mohamed\source\repos\Task_One_5\Task_One_5\obj\Debug\net6.0\Task_One_5.AssemblyInfo.cs
+C:\Users\mohamed\source\repos\Task_One_5\Task_One_5\obj\Debug\net6.0\Task_One_5.csproj.CoreCompileInputs.cache
+C:\Users\mohamed\source\repos\Task_One_5\Task_One_5\obj\Debug\net6.0\Task_One_5.dll
+C:\Users\mohamed\source\repos\Task_One_5\Task_One_5\obj\Debug\net6.0\ref\Task_One_5.dll
+C:\Users\mohamed\source\repos\Task_One_5\Task_One_5\obj\Debug\net6.0\Task_One_5.pdb
+C:\Users\mohamed\source\repos\Task_One_5\Task_One_5\obj\Debug\net6.0\Task_One_5.genruntimeconfig.cache
+C:\Users\mohamed\source\repos\Task_One_5\Task_One_5\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\mohamed\source\repos\Task_One_5\Task_One_5\obj\Debug\net6.0\Task_One_5.csproj.CopyComplete
+E:\tit\MOhamedMahmoud\Task_One_5\Task_One_5\bin\Debug\net6.0\Task_One_5.exe
+E:\tit\MOhamedMahmoud\Task_One_5\Task_One_5\bin\Debug\net6.0\Task_One_5.deps.json
+E:\tit\MOhamedMahmoud\Task_One_5\Task_One_5\bin\Debug\net6.0\Task_One_5.runtimeconfig.json
+E:\tit\MOhamedMahmoud\Task_One_5\Task_One_5\bin\Debug\net6.0\Task_One_5.dll
+E:\tit\MOhamedMahmoud\Task_One_5\Task_One_5\bin\Debug\net6.0\Task_One_5.pdb
+E:\tit\MOhamedMahmoud\Task_One_5\Task_One_5\bin\Debug\net6.0\Newtonsoft.Json.dll
+E:\tit\MOhamedMahmoud\Task_One_5\Task_One_5\obj\Debug\net6.0\Task_One_5.csproj.AssemblyReference.cache
+E:\tit\MOhamedMahmoud\Task_One_5\Task_One_5\obj\Debug\net6.0\Task_One_5.GeneratedMSBuildEditorConfig.editorconfig
+E:\tit\MOhamedMahmoud\Task_One_5\Task_One_5\obj\Debug\net6.0\Task_One_5.AssemblyInfoInputs.cache
+E:\tit\MOhamedMahmoud\Task_One_5\Task_One_5\obj\Debug\net6.0\Task_One_5.AssemblyInfo.cs
+E:\tit\MOhamedMahmoud\Task_One_5\Task_One_5\obj\Debug\net6.0\Task_One_5.csproj.CoreCompileInputs.cache
+E:\tit\MOhamedMahmoud\Task_One_5\Task_One_5\obj\Debug\net6.0\Task_One_5.csproj.CopyComplete
+E:\tit\MOhamedMahmoud\Task_One_5\Task_One_5\obj\Debug\net6.0\Task_One_5.dll
+E:\tit\MOhamedMahmoud\Task_One_5\Task_One_5\obj\Debug\net6.0\refint\Task_One_5.dll
+E:\tit\MOhamedMahmoud\Task_One_5\Task_One_5\obj\Debug\net6.0\Task_One_5.pdb
+E:\tit\MOhamedMahmoud\Task_One_5\Task_One_5\obj\Debug\net6.0\Task_One_5.genruntimeconfig.cache
+E:\tit\MOhamedMahmoud\Task_One_5\Task_One_5\obj\Debug\net6.0\ref\Task_One_5.dll
+E:\tit\Farag\Task_One_5\Task_One_5\bin\Debug\net6.0\Task_One_5.exe
+E:\tit\Farag\Task_One_5\Task_One_5\bin\Debug\net6.0\Task_One_5.deps.json
+E:\tit\Farag\Task_One_5\Task_One_5\bin\Debug\net6.0\Task_One_5.runtimeconfig.json
+E:\tit\Farag\Task_One_5\Task_One_5\bin\Debug\net6.0\Task_One_5.dll
+E:\tit\Farag\Task_One_5\Task_One_5\bin\Debug\net6.0\Task_One_5.pdb
+E:\tit\Farag\Task_One_5\Task_One_5\bin\Debug\net6.0\Newtonsoft.Json.dll
+E:\tit\Farag\Task_One_5\Task_One_5\obj\Debug\net6.0\Task_One_5.csproj.AssemblyReference.cache
+E:\tit\Farag\Task_One_5\Task_One_5\obj\Debug\net6.0\Task_One_5.GeneratedMSBuildEditorConfig.editorconfig
+E:\tit\Farag\Task_One_5\Task_One_5\obj\Debug\net6.0\Task_One_5.AssemblyInfoInputs.cache
+E:\tit\Farag\Task_One_5\Task_One_5\obj\Debug\net6.0\Task_One_5.AssemblyInfo.cs
+E:\tit\Farag\Task_One_5\Task_One_5\obj\Debug\net6.0\Task_One_5.csproj.CoreCompileInputs.cache
+E:\tit\Farag\Task_One_5\Task_One_5\obj\Debug\net6.0\Task_One_5.csproj.CopyComplete
+E:\tit\Farag\Task_One_5\Task_One_5\obj\Debug\net6.0\Task_One_5.dll
+E:\tit\Farag\Task_One_5\Task_One_5\obj\Debug\net6.0\refint\Task_One_5.dll
+E:\tit\Farag\Task_One_5\Task_One_5\obj\Debug\net6.0\Task_One_5.pdb
+E:\tit\Farag\Task_One_5\Task_One_5\obj\Debug\net6.0\Task_One_5.genruntimeconfig.cache
+E:\tit\Farag\Task_One_5\Task_One_5\obj\Debug\net6.0\ref\Task_One_5.dll
+E:\tit\Farag\conver File\Task_One_5\bin\Debug\net6.0\Task_One_5.exe
+E:\tit\Farag\conver File\Task_One_5\bin\Debug\net6.0\Task_One_5.deps.json
+E:\tit\Farag\conver File\Task_One_5\bin\Debug\net6.0\Task_One_5.runtimeconfig.json
+E:\tit\Farag\conver File\Task_One_5\bin\Debug\net6.0\Task_One_5.dll
+E:\tit\Farag\conver File\Task_One_5\bin\Debug\net6.0\Task_One_5.pdb
+E:\tit\Farag\conver File\Task_One_5\bin\Debug\net6.0\Newtonsoft.Json.dll
+E:\tit\Farag\conver File\Task_One_5\obj\Debug\net6.0\Task_One_5.csproj.AssemblyReference.cache
+E:\tit\Farag\conver File\Task_One_5\obj\Debug\net6.0\Task_One_5.GeneratedMSBuildEditorConfig.editorconfig
+E:\tit\Farag\conver File\Task_One_5\obj\Debug\net6.0\Task_One_5.AssemblyInfoInputs.cache
+E:\tit\Farag\conver File\Task_One_5\obj\Debug\net6.0\Task_One_5.AssemblyInfo.cs
+E:\tit\Farag\conver File\Task_One_5\obj\Debug\net6.0\Task_One_5.csproj.CoreCompileInputs.cache
+E:\tit\Farag\conver File\Task_One_5\obj\Debug\net6.0\Task_One_5.csproj.CopyComplete
+E:\tit\Farag\conver File\Task_One_5\obj\Debug\net6.0\Task_One_5.dll
+E:\tit\Farag\conver File\Task_One_5\obj\Debug\net6.0\refint\Task_One_5.dll
+E:\tit\Farag\conver File\Task_One_5\obj\Debug\net6.0\Task_One_5.pdb
+E:\tit\Farag\conver File\Task_One_5\obj\Debug\net6.0\Task_One_5.genruntimeconfig.cache
+E:\tit\Farag\conver File\Task_One_5\obj\Debug\net6.0\ref\Task_One_5.dll
